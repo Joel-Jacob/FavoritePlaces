@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "197667998982",
+    "firebase_url": "https://placesofintrest.firebaseio.com",
+    "project_id": "placesofintrest",
+    "storage_bucket": "placesofintrest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197667998982:android:5ee9dfcc98d16623ac6287",
+        "android_client_info": {
+          "package_name": "com.example.googleplacesofintrest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197667998982-g40n4r63ej2pauru8irr5edo394org12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googleplacesofintrest",
+            "certificate_hash": "98ffb19eae7af78a9fd628fe904e456b72698417"
+          }
+        },
+        {
+          "client_id": "197667998982-4bcfto4rq73l0va0vslhm1a2kbj6vj7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1fd66XkpFqTBPBHcn8hRpjIN2LRxpnYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197667998982-4bcfto4rq73l0va0vslhm1a2kbj6vj7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
